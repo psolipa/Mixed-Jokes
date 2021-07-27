@@ -1,4 +1,4 @@
-# Mixed-Messages
+# Joke Generator
 
-Javascript message generator program.
-It generates a random message everytime the button is clicked.
+Javascript joke generator program.
+It generates a random joke everytime the button is clicked.
